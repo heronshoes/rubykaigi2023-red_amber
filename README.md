@@ -1,6 +1,6 @@
 # RubyKaigi2023-RedAmber
 
-これは 鈴木弘一(＠heronshoes) が RubyKaigi2023 で使用したスライドとRubyのためのプレゼンテーションツール `rabbit` のカスタマイズタイマー設定です。
+これは 鈴木弘一(＠heronshoes) が RubyKaigi2023 で使用したスライドとRubyのためのプレゼンテーションツール [rabbit](https://rabbit-shocker.org/) のカスタマイズタイマー設定です。
 
 私は、プレゼンテーション資料は Keynote で作成し、pdfに落として、rabbitによるタイマー機能と組み合わせて表示させて使いました。
 
@@ -19,7 +19,7 @@ Rabbit 3.0.1に対応しています。
 
 These are resources of presentation slide and customized timer image setting which is used by Hirokazu SUZUKI (@heronshoes) in RubyKaigi2023.
 
-This presentation is originally created by Keynote, save in pdf and displayed overlapping timer images by `rabbit` the presentation tool for Rubyists.
+This presentation is originally created by Keynote, saved in pdf and displayed with overlapping timer images by [rabbit](https://github.com/rabbit-shocker/rabbit) the presentation tool for Rubyists.
 
 Invoke below to use this.
 
