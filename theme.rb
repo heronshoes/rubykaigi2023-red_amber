@@ -1,11 +1,11 @@
-# rabbit RubyKaigi2023_RedAmber.pdf -t . --allotted-time 30m -f
+# rabbit RubyKaigi_2023_follow_up.pdf -t . --allotted-time 10m -f
 
 margin_left = 5
 margin_right = 5
 margin_bottom = 5
 
 @image_timer_image = 'giga_usagi.png'
-@image_timer_limit ||= 30 * 60
+@image_timer_limit ||= 10 * 60
 @image_timer_margin_left = margin_left
 @image_timer_margin_right = margin_right
 @image_timer_margin_bottom = margin_bottom
